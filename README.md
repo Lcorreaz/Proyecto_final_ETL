@@ -79,9 +79,10 @@ Para proteger la información confidencial, los nombres reales fueron reemplazad
 ## Visualización
 
 El archivo `dashboard ventas.pbix` contiene resumen gerencial de ventas, cumplimientos de zonas de ventas , Graficas con comportamiento de los productos ofrecidos.
-resumen_ventas.png
-vendedores.png
-productos.png
+![Visualizacion1](resumen_ventas.png)
+![Visualizacion2](vendedores.png)
+![Visualizacion3](productos.png)
+
 
 ---
 
