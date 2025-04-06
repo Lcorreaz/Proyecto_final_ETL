@@ -96,7 +96,8 @@ El script `verificar.py` valida:
 ---
 
 ## Diagrama del Pipeline ETL
-diagrama_etl.png
+![Diagrama ETL](diagrama_etl.png)
+
 
 
 ---
